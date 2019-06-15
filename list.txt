@@ -2,3 +2,4 @@
 107.161.23.226  # minuteinbox.com
 96.126.99.158   # 10minutemail.com
 107.191.99.34   # tempmailaddress.com
+192.241.228.4   # emailondeck.com
